@@ -15,7 +15,7 @@ Tugas MBKM dibangun dengan:
 * [PHP](https://www.php.net/) - popular general-purpose scripting language that is especially suited to web development.
 * [SUBLIME TEXT](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose.
 * [XAMPP](https://www.apachefriend.org/index.html) - XAMPP is an to install Apache-distribution containing MariaDB, PHP and Perl.
-* [GOOGLE CHROME](https://www.google.com/intl/id id/chrome/)- the browser built by Google.
+* [GOOGLE CHROME](https://www.google.com/intl/id/chrome/) - the browser built by Google.
 
 ## Requirement 
 
